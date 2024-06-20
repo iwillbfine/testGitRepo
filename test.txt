@@ -2,5 +2,3 @@ HelloWorld
 
 123
 ABC
-
-abc
