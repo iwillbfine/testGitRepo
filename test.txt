@@ -1,3 +1,6 @@
 HelloWorld
+<<<<<<< HEAD
 
 teamB
+=======
+>>>>>>> 86b0dc687ffa382d9fe2f3a96314fa55690686a7
