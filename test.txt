@@ -1,9 +1,1 @@
 HelloWorld
-
-123
-ABC
-
-
-teamB
-
-teamA
